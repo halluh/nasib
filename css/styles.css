@@ -1,9 +1,36 @@
-.jumbotron {
+#jumb {
     margin-bottom: 0px;
-    background-image: url(../imgs/index.jpeg);
+    background-image: url(../imgs/b4.gif);
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
+    height: 50vh;
 }
+
+#jumb h1 {
+    font-family: 'Bungee Shade', cursive;
+}
+/*
+img {
+    display: none;
+}*/
+
+.him-showing {
+    display: none;
+}
+
+p {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+p:hover {
+    text-decoration: underline;
+}
+.row {
+	margin-top:50px;
+}
+
+	
